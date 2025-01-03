@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Sobre mi
+Me llamo Juan Diego Rubiano Saenz estudiante de ingenieria de sistemas en la universidad EAN, me llama mucho la atencion crear soluciones a problemas del diario vivir utilizando mi conocimiento en ingenieria de sistemas, me gusta mucho explorar y conocer diferentes lugares del mundo apasionado del transporte publico investigo diferentes soluciones y oportunidades para crear soluciones que sean acordes a la situacion a analizar.
 <!--
 **JuanDiRS/JuanDiRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
