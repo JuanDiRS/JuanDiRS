@@ -21,6 +21,8 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad EAN y me apasiona en
 - Java
 - AWS
 - Matlab
+- Simulink
+- Kotlin
 - CSS
 <!--
 **JuanDiRS/JuanDiRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
