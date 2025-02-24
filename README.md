@@ -16,6 +16,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad EAN y me apasiona en
 - Trabajo bajo presión
 - Persistente
 - Autoformación
+## Conocimientos
 - Phyton
 - Git
 - Java
@@ -24,6 +25,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad EAN y me apasiona en
 - Simulink
 - Kotlin
 - CSS
+- Packet Tracer
 <!--
 **JuanDiRS/JuanDiRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
