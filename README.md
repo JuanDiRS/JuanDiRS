@@ -25,6 +25,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad EAN y me apasiona en
 - Simulink
 - Kotlin
 - Packet Tracer
+- C++
 - SQL
 - Power BI
 <!--
