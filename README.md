@@ -22,6 +22,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad EAN y me apasiona en
 - Java
 - AWS
 - Matlab
+- JavaScript
 - Simulink
 - Kotlin
 - Packet Tracer
